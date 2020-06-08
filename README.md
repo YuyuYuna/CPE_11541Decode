@@ -10,7 +10,7 @@ Set the input amount
 
 # Second 
 
-Load input in while fuction
+Load input and input amount count in while fuction
 
 # Third
 
